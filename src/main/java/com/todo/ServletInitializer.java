@@ -1,4 +1,4 @@
-package com.todo.todo;
+package com.todo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
