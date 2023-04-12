@@ -7,14 +7,13 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### 만들고자 하는 기능이 무엇인가요?
+ex) Todo 생성 기능
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### 해당 기능을 구현하기 위해 할 일이 무엇인가요?
+1. [ ] Job1
+2. [ ] Job2
+3. [ ] Job3
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### 예상 작업 시간
+ex) 3h
