@@ -16,5 +16,6 @@ public class TodoApplication extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(TodoApplication.class);
 	}
+	// 주석달아봥
 
 }
